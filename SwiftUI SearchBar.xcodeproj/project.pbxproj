@@ -11,6 +11,7 @@
 		C04365C825BD8B1200EA3F8C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04365C725BD8B1200EA3F8C /* ContentView.swift */; };
 		C04365CA25BD8B1800EA3F8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C04365C925BD8B1800EA3F8C /* Assets.xcassets */; };
 		C04365CD25BD8B1800EA3F8C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C04365CC25BD8B1800EA3F8C /* Preview Assets.xcassets */; };
+		C04365D625BD9F8900EA3F8C /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04365D525BD9F8900EA3F8C /* SearchBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C04365C925BD8B1800EA3F8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C04365CC25BD8B1800EA3F8C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C04365CE25BD8B1800EA3F8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C04365D525BD9F8900EA3F8C /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C04365C525BD8B1200EA3F8C /* SwiftUI_SearchBarApp.swift */,
 				C04365C725BD8B1200EA3F8C /* ContentView.swift */,
+				C04365D525BD9F8900EA3F8C /* SearchBarView.swift */,
 				C04365C925BD8B1800EA3F8C /* Assets.xcassets */,
 				C04365CE25BD8B1800EA3F8C /* Info.plist */,
 				C04365CB25BD8B1800EA3F8C /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C04365C825BD8B1200EA3F8C /* ContentView.swift in Sources */,
+				C04365D625BD9F8900EA3F8C /* SearchBarView.swift in Sources */,
 				C04365C625BD8B1200EA3F8C /* SwiftUI_SearchBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
